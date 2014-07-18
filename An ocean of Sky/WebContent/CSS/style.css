@@ -1,0 +1,78 @@
+#wrapper{
+	width:960px; 
+	height:1000px;
+	border:1px solid green;
+	margin:10px auto;
+		background:url("../images/background.png");
+}
+
+#nav{
+	width:930px; 
+	height:80px;
+	border:1px solid red;
+	margin:10px 0px 0px 70px;
+}
+a{color:white;}
+#nav ul
+{
+list-style-type:none;
+margin:0;
+padding:0;
+
+}
+#nav ul li
+{
+float:left;
+list-style:none;
+padding:30px 0px 0px 50px;
+}
+#nav ul li a{text-decoration:none;}
+
+
+
+
+
+
+#imag{
+	width:650px; 
+	height:320px;
+	border:5px solid white;
+	margin:10px 10px 0px 70px;
+	float:left;
+	background:url("../images/anoceanofsky.jpg") no-repeat;
+}
+
+h1{color:white;
+font-size:16px;
+}
+h2{color:blue;
+font-size:12px;
+}
+
+#content{
+	width:650px; 
+	height:350px;
+	border:5px solid white;
+	margin:10px 0px 0px 70px;
+	
+	background:url("../images/content_back.png");
+	float:left;
+	font-style:normal;
+	font-size:16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
